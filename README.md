@@ -1,6 +1,6 @@
 # Introduction
 
-This CPU simulator is a re-implementation in C of my solution to a programming contest held at my workplace recently. It's also the result of my growing interest in trying to understand low-level details of how processors carry out computation. The architecture of this particular processor is very simplistic, allowing easy understanding of its internals, at the cost of making actual programming cumbersome and tedious.
+This CPU simulator is a re-implementation in C of my solution to a programming contest held at my workplace recently (Go version available [here](https://github.com/go-cpu-simulator)). It's also the result of my growing interest in trying to understand low-level details of how processors carry out computation. The architecture of this particular processor is very simplistic, allowing easy understanding of its internals, at the cost of making actual programming cumbersome and tedious.
 
 ## Architecture description
 
